@@ -10,6 +10,18 @@ The dashboard transforms raw sales data into interactive visualizations and perf
 
 ## Dashboard Preview
 
+### 1. Sales Overview Dashboard
+
+![Sales Overview](Screenshots/dashboard_overview.png)
+
+### 2. Sales Forecast Dashboard
+
+![Sales Forecast](Screenshots/sales_forecast.png)
+
+### 3. Category Profitability Analysis
+
+![Category Profitability](Screenshots/category_profitability.png)
+
 ### 1. Sales Overview
 
 The main dashboard provides an overview of business performance through:
