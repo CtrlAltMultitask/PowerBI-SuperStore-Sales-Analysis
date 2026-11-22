@@ -20,7 +20,7 @@ The dashboard transforms raw sales data into interactive visualizations and perf
 
 ### 3. Category Profitability Analysis
 
-![Category Profitability](Screenshots/category_profitability.png)
+![Category Profitability](Screenshots/category_profitability_analysis.png)
 
 ### 1. Sales Overview
 
